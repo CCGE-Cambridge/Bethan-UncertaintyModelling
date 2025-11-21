@@ -22,3 +22,5 @@ Functions:
 - make_sankey_from_results_values.R: produces a sankey diagram from given BOADICEA outputs
 - reformat_output_dataset.R: puts data in the correct format for BOADICEA, from the imputation-formatted data
 - save_dataset.R: saves data for use in BOADICEA
+
+Maintained version: https://github.com/bethanw/risk-uncertainty
